@@ -1,0 +1,7 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"assert:parsesTo:" : "jst 5/7/2019 12:17",
+		"assert:parsesToRuns:values:" : "jst 5/7/2019 18:58",
+		"setUp" : "jst 5/7/2019 18:59" } }

@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"fromSpecNamed:" : "jst 5/7/2019 19:28" },
+	"instance" : {
+		"expectedAttributesFor:" : "jst 5/7/2019 18:53",
+		"filterCategory:" : "jst 5/7/2019 10:06",
+		"formatArray:" : "jst 5/7/2019 17:52",
+		"importFrom:" : "jst 5/7/2019 10:01",
+		"parser" : "jst 5/7/2019 11:37",
+		"parser:" : "jst 5/7/2019 11:37",
+		"printCodeOn:for:" : "jst 5/7/2019 19:20",
+		"printMessageSelectorOn:for:" : "jst 5/7/2019 19:18",
+		"printMethodBodyOn:for:" : "jst 5/7/2019 19:19",
+		"spec" : "jst 5/7/2019 09:59",
+		"spec:" : "jst 5/7/2019 10:00",
+		"writeMethodsTo:" : "jst 5/7/2019 19:21" } }

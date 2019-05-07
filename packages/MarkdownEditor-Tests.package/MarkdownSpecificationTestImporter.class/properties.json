@@ -1,0 +1,15 @@
+{
+	"category" : "MarkdownEditor-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jst 5/7/2019 19:40",
+	"instvars" : [
+		"spec",
+		"parser" ],
+	"name" : "MarkdownSpecificationTestImporter",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
